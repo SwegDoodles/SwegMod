@@ -1,3 +1,5 @@
 {
-  "item.swegmod.dollar": "$1 Dollar"
+  "item.swegmod.dollar": "$1 Dollar",
+
+  "itemGroup.swegtab": "Sweg Mod"
 }

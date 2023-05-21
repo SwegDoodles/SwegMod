@@ -13,7 +13,7 @@ public class ModItems {
             DeferredRegister.create(ForgeRegistries.ITEMS, SwegMod.MOD_ID);
 
     public static final RegistryObject<Item> DOLLAR = ITEMS.register("dollar",
-            () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.SWEG_TAB)));
 
     public static void register(IEventBus eventBus){
         ITEMS.register(eventBus);
