@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "lit=false": { "model":  "swegmod:block/jumpy_block"},
+    "lit=true": { "model":  "swegmod:block/jumpy_block_on"}
+  }
+}

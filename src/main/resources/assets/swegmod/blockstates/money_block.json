@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model":  "swegmod:block/money_block"}
+  }
+}

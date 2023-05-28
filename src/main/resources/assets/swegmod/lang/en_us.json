@@ -1,5 +1,16 @@
 {
   "item.swegmod.dollar": "$1 Dollar",
+  "item.swegmod.money_block_sword": "Money Block Sword",
+  "item.swegmod.blueberry": "Blueberry",
+  "item.swegmod.blueberry_seeds": "Blueberry Seeds",
+  "item.swegmod.5dollar": "$5 Dollars",
 
-  "itemGroup.swegtab": "Sweg Mod"
+  "block.swegmod.money_block": "Money Block",
+  "block.swegmod.jumpy_block":  "Jumpy Block",
+  "block.swegmod.blueberry_crop":  "Blueberry Crop",
+  "block.swegmod.test_block": "Test Block lol",
+
+  "itemGroup.swegtab": "Sweg Mod",
+
+  "entity.minecraft.villager.swegmod.money_master": "Money Master"
 }

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "swegmod:dollar"
+    }
+  },
+  "result": {
+    "item": "swegmod:money_block"
+  }
+}

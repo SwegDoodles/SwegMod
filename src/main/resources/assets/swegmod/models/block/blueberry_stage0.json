@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/crop",
+  "textures": {
+    "crop": "swegmod:block/blueberry_stage0"
+  }
+}

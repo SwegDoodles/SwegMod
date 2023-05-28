@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "swegmod:5dollar"
+    }
+  ],
+  "result": {
+    "item": "swegmod:dollar",
+    "count": 5
+  }
+}
